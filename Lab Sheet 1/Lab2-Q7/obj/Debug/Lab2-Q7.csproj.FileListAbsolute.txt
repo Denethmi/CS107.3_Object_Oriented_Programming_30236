@@ -1,0 +1,7 @@
+D:\1 year\3 semester\C#\Practicals\Lab2-Q7\obj\Debug\Lab2-Q7.csproj.AssemblyReference.cache
+D:\1 year\3 semester\C#\Practicals\Lab2-Q7\obj\Debug\Lab2-Q7.csproj.CoreCompileInputs.cache
+D:\1 year\3 semester\C#\Practicals\Lab2-Q7\bin\Debug\Lab2-Q7.exe.config
+D:\1 year\3 semester\C#\Practicals\Lab2-Q7\bin\Debug\Lab2-Q7.exe
+D:\1 year\3 semester\C#\Practicals\Lab2-Q7\bin\Debug\Lab2-Q7.pdb
+D:\1 year\3 semester\C#\Practicals\Lab2-Q7\obj\Debug\Lab2-Q7.exe
+D:\1 year\3 semester\C#\Practicals\Lab2-Q7\obj\Debug\Lab2-Q7.pdb
